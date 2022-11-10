@@ -1,0 +1,1 @@
+Practicing how to make a landing page using flexbox, html and css
